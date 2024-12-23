@@ -1,0 +1,5 @@
+hsa-dev-rocm (6.2.4-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- CHEN Xuan <chenxuan@iscas.ac.cn>  Mon, 23 Dec 2024 10:56:17 +0800

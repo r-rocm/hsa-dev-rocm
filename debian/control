@@ -1,0 +1,19 @@
+Source: hsa-dev-rocm
+Section: unknown
+Priority: optional
+Maintainer: CHEN Xuan <chenxuan@iscas.ac.cn>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/hsa-dev-rocm
+#Vcs-Git: https://salsa.debian.org/debian/hsa-dev-rocm.git
+
+Package: hsa-dev-rocm
+Architecture: any
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>
